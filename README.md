@@ -14,6 +14,7 @@ My name is Chris Townsend, I have worked in the software industry since 2014 and
     * PostgreSQL
     * AWS SNS and SQS
     * Microservices
+    * Gitlab
 
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I have a school report from when I was 10 years old which states in the personal comments section "When I grow up, I would like to be a computer programmer"
